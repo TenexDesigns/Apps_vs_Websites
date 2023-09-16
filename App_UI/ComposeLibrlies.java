@@ -7,10 +7,12 @@ Icons -Yes, there are a number of icon libraries that you can use in Jetpack Com
 
 Material Icons: This is the default icon library for Jetpack Compose. It provides a wide range of icons that are designed to match the Material Design aesthetic.
 Material Icons Extended: This library provides a set of extended Material Design icons that are not included in the default Material Icons library.
+Font Awesome: This library provides a large collection of icons, including many popular brands and social media icons.
+Ionicons: This library provides a set of icons that are designed for mobile apps.
+Octicons: This library provides a set of icons that are designed for GitHub and other open source projects.
 
 
-
-  You can also use any custom icon that you create yourself. To do this, you can convert your icon to a vector image and then add it to your project's resources directory.
+You can also use any custom icon that you create yourself. To do this, you can convert your icon to a vector image and then add it to your project's resources directory.
 
 To use an icon in Jetpack Compose, you can use the Icon composable. This composable takes the name of the icon as a parameter, and it will display the icon on the screen.
 
